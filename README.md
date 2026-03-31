@@ -1,31 +1,66 @@
-# QudwahFlix-demo 🎞️✮⋆˙
-
-# QudwahFlix
+# QudwahFlix 🎞️✮⋆˙
 
 A Flutter-based mobile learning platform delivering educational video courses, interactive content, and real-time notifications. Includes subscription and installment payments with an admin dashboard for managing users, courses, products, orders, and payments.
 
 ---
 
-📦 **Stack**  
-Flutter & Dart  
-Firebase (Auth, Firestore, Cloud Storage)  
-REST APIs  
-SenangPay Payment Integration  
-FCM (Push Notifications)  
+## 🚀 Overview
+QudwahFlix is a cross-platform mobile app that allows users to browse and stream video content with a clean interface and responsive performance.
+
+This project demonstrates practical experience in:
+- Mobile app development
+- API integration
+- UI/UX design
+- Real-time data handling
 
 ---
 
-✨ **Quick Start**  
-- Install Flutter and dependencies  
-- Clone the repo  
-- Open in Android Studio or VS Code  
-- Run on simulator or device  
-
-> This repository contains **project documentation and screenshots only**. Source code is private.  
+## ✨ Key Features
+- 🎥 Video streaming functionality  
+- 🔍 Browse and explore content  
+- 📱 Responsive and clean UI  
+- ⚡ Smooth performance with Flutter  
+- 🔗 REST API integration  
+- 🔐 Firebase integration (Auth / Firestore)
 
 ---
 
-### 📀 Preview
+## 🛠️ Tech Stack
+- **Framework:** Flutter  
+- **Language:** Dart  
+- **Backend/Services:** Firebase  
+- **Tools:** Android Studio, GitHub  
+- **API:** REST APIs  
+
+---
+
+## 👨‍💻 My Contributions
+- Developed core mobile app features using Flutter  
+- Designed and implemented UI components  
+- Integrated APIs for dynamic content  
+- Optimized app performance and responsiveness  
+
+---
+
+## 🤝 Collaboration
+This project was developed as part of an **internship project** in collaboration with a teammate.
+
+---
+
+## 📂 Project Documentation
+Detailed explanation of the project (features, flow, and implementation) is available in:
+
+👉 `DOCUMENTATION.md`
+
+---
+
+## 📌 Notes
+This project is currently **not publicly deployed**.  
+The repository is created to showcase development skills, project structure, and implementation approach.
+
+---
+
+## 📷 Preview
 
 https://github.com/user-attachments/assets/740c290c-19f5-430c-a9fa-19525e672811 
 

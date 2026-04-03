@@ -62,12 +62,7 @@ The repository is created to showcase development skills, project structure, and
 
 ## 📷 Preview
 
-https://github.com/user-attachments/assets/740c290c-19f5-430c-a9fa-19525e672811 
+https://github.com/user-attachments/assets/1f295dbe-a35c-4fc3-9165-97c64e4df8c0
 
 ---
-🖼 **Images**  
-Add your screenshots or demo images to the `images/` folder and reference them in the README:  
 
-```markdown
-![Home Screen](images/home_screen.png)
-![Course Page](images/course_page.png)
